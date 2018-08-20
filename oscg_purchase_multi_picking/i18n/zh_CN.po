@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* purchase_multi_picking
+#	* oscg_purchase_multi_picking
 #
 msgid ""
 msgstr ""
@@ -15,17 +15,17 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: purchase_multi_picking
+#. module: oscg_purchase_multi_picking
 #: model:ir.model,name:purchase_multi_picking.model_purchase_order
 msgid "Purchase Order"
 msgstr "采购订单"
 
-#. module: purchase_multi_picking
+#. module: oscg_purchase_multi_picking
 #: model:ir.model,name:purchase_multi_picking.model_purchase_order_line
 msgid "Purchase Order Line"
 msgstr "采购订单行"
 
-#. module: purchase_multi_picking
+#. module: oscg_purchase_multi_picking
 #: code:addons/purchase_multi_picking/models/purchase_inherit.py:46
 #, python-format
 msgid "You must set a Vendor Location for this partner %s"
