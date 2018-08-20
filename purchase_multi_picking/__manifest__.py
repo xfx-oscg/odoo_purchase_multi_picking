@@ -24,6 +24,6 @@
     'license': 'OPL-1',
     'currency': 'USD',
     'price': 10,
-    'support': 'thanhchatvn@gmail.com',
+    'support': 'sales@oscg.biz',
     'application':True,
 }
